@@ -22,22 +22,26 @@ Feel free to..
 
 **PLEASE**: The project currently is lacking Web-Frontend experience.
 
-If you are interested to contribute some of your time => reach out to [guy@ansibleguy.net](mailto:guy@ansibleguy.net)
+If you are interested to contribute some of your time => reach out to [contact+opnsense@oxl.at](mailto:contact+opnsense@oxl.at)
 
 
 ### DEVELOPMENT IN PROGRESS!
 
-Not yet in a usable state!
+This project is currently still in its planning-phase.
+
+It might be stale until [our Linux Server-Manager](https://github.com/O-X-L/linux-server-manager) is in an usable state.
 
 ----
 
 ## Main parts
 
-* [OPNSense Ansible Collection](https://github.com/ansibleguy/collection_opnsense)
+* [OPNSense Ansible Collection](https://github.com/O-X-L/ansible-opnsense)
 
-* [Semaphore Ansible WebUI](https://github.com/ansible-semaphore/semaphore)
+* Some Ansible WebUI
 
-* [Graylog for centralized logging incl. analysis and alerting](https://github.com/Graylog2/graylog2-server)
+* Some Logserver
+
+* System-Stats via Prometheus & Grafana
 
 * [Config and information versioning using git (with WebUI)](https://github.com/gogs/gogs)
 
